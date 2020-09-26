@@ -2,7 +2,7 @@ numpy==1.17.2
 pip==19.2.3
 setuptools==40.8.0
 
-tensorflow==1.8.0
+tensorflow==1.15.4
 h5py==2.8.0
 Keras==2.2.0
 Keras-Applications==1.0.2
