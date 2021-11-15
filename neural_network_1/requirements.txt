@@ -1,5 +1,5 @@
 numpy==1.17.2
-pip==19.2.3
+pip==21.1
 setuptools==40.8.0
 
 tensorflow==1.8.0
