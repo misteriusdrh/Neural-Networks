@@ -1,6 +1,6 @@
 numpy==1.17.2
 pip==19.2.3
-setuptools==40.8.0
+setuptools==65.5.1
 
 tensorflow==1.8.0
 h5py==2.8.0
